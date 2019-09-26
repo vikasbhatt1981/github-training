@@ -1,3 +1,5 @@
 1st case demo.txt 	-written in master
 2nd case demo.txt	-change from secondary branch
-recurse merge -demo.txt
+3rd case 		recurse merge -demo.txt
+4th Case		recurse merge-2 in demo.txt
+
