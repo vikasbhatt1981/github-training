@@ -5,3 +5,6 @@
 recurse merge-2 in demo.txt
 conflict demo-1
 
+reset-1
+reset-2
+reset-3
