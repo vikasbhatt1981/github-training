@@ -2,4 +2,6 @@
 2nd case demo.txt	-change from secondary branch
 3rd case 		recurse merge -demo.txt
 4th Case		recurse merge-2 in demo.txt
+recurse merge-2 in demo.txt
+conflict demo-1
 
