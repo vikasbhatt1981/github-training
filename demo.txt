@@ -13,4 +13,4 @@ Stash demo-1
 
 data in demo.txt
 demo for conflict in pull
-
+done by somil
