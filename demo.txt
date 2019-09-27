@@ -11,3 +11,5 @@ reset-3
 Stash demo-2
 Stash demo-1
 
+demo for conflict in pull
+
