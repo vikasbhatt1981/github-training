@@ -12,3 +12,5 @@ Stash demo-2
 Stash demo-1
 
 data in demo.txt
+demo for conflict in pull
+
