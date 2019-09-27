@@ -1,0 +1,46 @@
+
+
+git config --global user.name ""
+git config --global user.email ""
+
+git init
+git --version
+git --help # List out all commands
+git help <command-name> # getting details about specific command
+
+git status
+git add (./*/--all/filename)
+git commit -m ""
+git commit -am ""
+git commit -am "" <filename>
+
+git log 
+got log -p
+got log --oneline
+
+git branch
+git branch <branch-name>
+git branch -d <branch-name>
+git branch -D <branch-name>
+
+git checkout <branch-name>
+git checkout -b <branch-name>
+
+git tag
+git diff
+
+git reset <commit-id>  # discard history and keep changes
+git reset --hard <commit-id> # discard history and changes
+git revert  <commit-id>  #discard changes and keep history
+git merge #FF, Recursive, Conflict
+
+git stash # parking changes to cache for time being
+git stash pop #bring the stashed changes back to LWD
+
+git bisect
+git mv
+git rm
+git reset HEAD
+
+
+
